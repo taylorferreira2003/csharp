@@ -1,0 +1,14 @@
+C:\csharp\seminario-primeiro-semestre-vintecinco\com-factorymethod\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.exe
+C:\csharp\seminario-primeiro-semestre-vintecinco\com-factorymethod\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.deps.json
+C:\csharp\seminario-primeiro-semestre-vintecinco\com-factorymethod\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.runtimeconfig.json
+C:\csharp\seminario-primeiro-semestre-vintecinco\com-factorymethod\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.dll
+C:\csharp\seminario-primeiro-semestre-vintecinco\com-factorymethod\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.pdb
+C:\csharp\seminario-primeiro-semestre-vintecinco\com-factorymethod\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\seminario-primeiro-semestre-vintecinco\com-factorymethod\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\csharp\seminario-primeiro-semestre-vintecinco\com-factorymethod\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfo.cs
+C:\csharp\seminario-primeiro-semestre-vintecinco\com-factorymethod\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\csharp\seminario-primeiro-semestre-vintecinco\com-factorymethod\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.dll
+C:\csharp\seminario-primeiro-semestre-vintecinco\com-factorymethod\ConsoleApp3\obj\Debug\net9.0\refint\ConsoleApp3.dll
+C:\csharp\seminario-primeiro-semestre-vintecinco\com-factorymethod\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.pdb
+C:\csharp\seminario-primeiro-semestre-vintecinco\com-factorymethod\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.genruntimeconfig.cache
+C:\csharp\seminario-primeiro-semestre-vintecinco\com-factorymethod\ConsoleApp3\obj\Debug\net9.0\ref\ConsoleApp3.dll
