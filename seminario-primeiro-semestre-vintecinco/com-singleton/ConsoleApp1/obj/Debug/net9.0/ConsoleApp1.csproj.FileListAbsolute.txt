@@ -12,3 +12,4 @@ C:\csharp\seminario-primeiro-semestre-vintecinco\com-singleton\ConsoleApp1\obj\D
 C:\csharp\seminario-primeiro-semestre-vintecinco\com-singleton\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
 C:\csharp\seminario-primeiro-semestre-vintecinco\com-singleton\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 C:\csharp\seminario-primeiro-semestre-vintecinco\com-singleton\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+C:\csharp\seminario-primeiro-semestre-vintecinco\com-singleton\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
